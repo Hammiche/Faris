@@ -1,0 +1,148 @@
+
+html{
+	scroll-behavior:smooth;
+}
+#body1{float:left;
+	background:#c7cfd6 url("37.jpEg") no-repeat fixed 10%;
+	}
+*{padding:0;margin:0; }
+#h2HAMMICHE{ color:#3FFCD#;
+	position:absolute;right:3px;
+}
+#h11{position:absolute;left:30%;top:10%;
+}
+#h11::after{
+content :" W E L C O M E to Mdinty";
+color:#FA38EA
+}
+	
+#square1{ 
+	width:60%;height:60%;background:#;
+	position:absolute;left:20%;top:30%;
+}
+#square2{
+	width:100%;height:20%;background:#;
+	position:absolute;left:0%;top:10%;
+}
+#square3{
+	width:100%;height:20%;background:#;
+	position:absolute;left:0%;top:35%;
+}
+#square4{
+	width:100%;height:20%;background:#;
+	position:absolute;left:0%;top:60%;
+}
+#button1{color:#FFF;
+	background:#0C030E;width:20%;height:10%;
+	position:absolute;left:45%;bottom:0px;
+	border-radius:8px 8px 8px 8px;
+	text-align:center;
+}
+.input_text1{background:#;color:#;
+width:50%;height:40%;
+position:absolute;left:30%;top:60%;
+border:#000 1px solid;
+border-radius:8px 8px 8px 8px;
+text-align:center;
+}
+#jpg{
+position:absolute;left:47.5%;
+	width:5%;
+	border-radius:100% 100% 100% 100%;
+}
+#ME1{width:19%;height:30%;
+	border:3% solid #931246 ;
+	position:absolute;left:0px;top:60%;
+}
+#img1{
+border-radius:100% 100% 100% 100%;
+}
+/*   ________________________________________________________________ */
+
+#body2{background:;
+
+}
+
+#aneesCanvas2{
+	border:2px solid #000000;
+	position:absolute;left:30%;
+}
+
+#div1{
+	width:350px;height:400px;padding:10px;border:1px solid #aaaaaa;
+}
+
+/*__________________________________________________________________*/
+
+#bodySDH2{
+		font-family:Tahoma , serif ;font-size:15px;
+}
+#div21{
+	width:100%;height:10%;background-color:#00000C;
+}
+#div22{width:20%;height:100%;
+float:left;
+}
+#div23{width:20%;height:100%;
+	right:25%;float:left;
+}
+#div24{width:20%;height:100%;
+	right:50%;float:left;
+}
+#div25{width:20%;height:100%;
+	right:75%;float:left;
+}
+.a1{  text-align:center;
+	text-decoration:none;
+}
+#div22:hover{background:white;}
+#div23:hover{background:white;}
+#div24:hover{background:white;}
+snap{color:white;
+	float:left;background-color:#3FFCCC;
+}
+
+
+/*__________________________________________________________________*/
+
+@charset "utf-8";
+#bodySDH3{
+	/*background-image:url("38.jpg");*/
+}
+#menu{
+	border:#449 1px solid;
+	width:800px;height:100px;
+	background-color:#FFC;
+}
+#menu ul{margin-left:5px;
+	list-style-type:none;
+}
+#menu ul li{
+	display:inline;
+}
+#menu ul li a{color:#F60;
+	text-decoration:none;
+	font-family:"Times New Roman" , Times , serif;
+	font-size:20px;font-weight:bold;
+	border:#F90 1px solid;
+	padding:7px 7px 7px 7px;
+}
+#menu ul li a:hover{
+	background-color:#111;
+}
+.marquee{
+	color:#000000;
+	font-family:"Times New Roman" , Times , serif;
+	font-size:30px;
+	font-weight:bold;
+	border-radius:7px 7px 7px 7px;
+	margin-top:2px;
+	opacity:0.5;
+}
+
+div {
+    display: block;
+}
+
+
+
